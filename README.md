@@ -1,6 +1,8 @@
 
 # Content Tools
 
+(Confirmed to be working with Wine on linux until I can get native support working)
+
 Content tools is an tool for TacZ and VPB content pack creators to automate some of the more tedious tasks of content pack creation and to eliminate human error
 
 Currently it automates
