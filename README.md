@@ -15,3 +15,5 @@ Currently it automates
 
 
 Planned in the future is the ability to automate data files, with a GUI to choose damage, rpm, bolt or semi auto, allowed attachments, etc
+
+(The source code is not up to date because I didn't bother connecting it to intellij)
