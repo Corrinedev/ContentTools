@@ -2,6 +2,9 @@
 # Content Tools
 
 (Confirmed to be working with Wine on linux until I can get native support working)
+Source code is split up into TACZ and VPB repositories
+TACZ: https://github.com/Corrinedev/ContentToolsTACZsrc
+VPB: https://github.com/Corrinedev/ContentToolsVPBsrc
 
 Content tools is an tool for TacZ and VPB content pack creators to automate some of the more tedious tasks of content pack creation and to eliminate human error
 
